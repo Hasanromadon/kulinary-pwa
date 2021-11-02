@@ -10,5 +10,7 @@ BUILD WITH :
 - WORKBOX PWA
 - AXIOS
 - PURE CSS AND VANILA JAVASCRIPT
-
 this is also have concern with accessibilty
+
+DESIGN WITH : FIGMA
+
