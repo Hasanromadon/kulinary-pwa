@@ -1,6 +1,6 @@
 # kulinary-pwa
 kulinary pwa for submission
-final project to pass dicoding expert scholarship/
+final project to pass dicoding expert scholarship.
 
 link live website : https://kulinary.netlify.app/
 
@@ -13,6 +13,7 @@ BUILD WITH :
 
 DESIGN WITH : FIGMA
 
-ALSO COCERN 
+ALSO COCERN WITH : 
 - ACCESSIBILITY
+- MOBILE FIRST APPROACH
 - LIGHTHOUSE MATRIX
