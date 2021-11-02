@@ -1,16 +1,18 @@
 # kulinary-pwa
 kulinary pwa for submission
-final project to pass dicoding expert scholarish
+final project to pass dicoding expert scholarship/
 
 link live website : https://kulinary.netlify.app/
 
 BUILD WITH :
 
-- WEBPACK
+- WEBPACK (MANY LOADER)
 - WORKBOX PWA
 - AXIOS
 - PURE CSS AND VANILA JAVASCRIPT
-this is also have concern with accessibilty
 
 DESIGN WITH : FIGMA
 
+ALSO COCERN 
+- ACCESSIBILITY
+- LIGHTHOUSE MATRIX
